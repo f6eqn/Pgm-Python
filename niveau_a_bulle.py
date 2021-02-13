@@ -2,7 +2,7 @@
 # (R) F6EQN 02/2021
 #
 
-# imporation des bibliotheques, customiser selon le sense-hat
+# importation des bibliotheques, customiser selon le sense-hat
 from sense_emu import SenseHat
 # from sense_hat import SenseHat
 from time import sleep
