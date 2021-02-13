@@ -54,7 +54,7 @@ try:
         
         lect_capt() #appelle la routine de lecture des capteurs
         sense.clear()
-        sense.set_pixel(x,y,couleur[x][y]) #allume la led sur le sense-hat, la couleur est indexee dans la matrivce de couleur
+        sense.set_pixel(x,y,couleur[x][y]) #allume la led sur le sense-hat, la couleur est indexee dans la matrice de couleur
         
        
         #sleep(0.04)
